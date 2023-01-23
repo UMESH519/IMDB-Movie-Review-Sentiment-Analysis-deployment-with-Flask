@@ -1,4 +1,5 @@
 # IMDB-Movie-Review-Sentiment-Analysis-deployment-with-Flask
 The Repository contains code for a dynamic NLP based Web application.
 
-![Screenshot](https://github.com/UMESH519/IMDB-Movie-Review-Sentiment-Analysis-deployment-with-Flask/blob/main/website%20image.png/to/img.png)
+
+![website image](https://user-images.githubusercontent.com/63723023/214176398-ee998c54-22ba-4a5c-8de1-f40a1641aee0.png)
